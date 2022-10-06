@@ -29,3 +29,9 @@ To automate this process, they have given a problem to identify the customer seg
 What makes a good solution? How do you evaluate which submission is better than another?
 Your model performance will be evaluated on the basis of your prediction of loan status for the test data (test.csv), which contains similar data-points as train except for the loan status to be predicted. Your submission needs to be in the format as shown in the sample submission.
 We at our end, have the actual loan status for the test dataset, against which your predictions will be evaluated. We will use the Accuracy value to judge your response.
+
+
+The Source code is avilable in Loan_approval_prediction.ipynb
+
+Train dataset named as train.csv
+Test dataset named as test.csv
